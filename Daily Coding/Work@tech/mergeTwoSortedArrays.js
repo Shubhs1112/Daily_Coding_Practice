@@ -17,4 +17,4 @@ function mergeTwoSortedArrays(arr1,arr2){
 }
 
 mergeTwoSortedArrays([1, 2, 3, 4, 4],[2, 4, 5, 5]);   //[1, 2, 2, 3, 4, 4, 4, 5, 5]
-mergeTwoSortedArrays([ 10, 13,21, 54, 49],[2, 4, 7, 9]);
+mergeTwoSortedArrays([ 10, 13, 21, 49, 54],[2, 4, 7, 9]); //[2 , 4, 7, 9, 10, 13, 21, 49, 54]
